@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/network"
+        android:icon="@drawable/signal"
+        android:title="Network"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/new_user"
+        app:showAsAction="never"
+        android:icon="@drawable/add_user"
+        android:title="Add new user" />
+    <item
+        android:id="@+id/edit_user"
+        app:showAsAction="never"
+        android:icon="@drawable/edit_user"
+        android:title="delete profile"/>
+    <item
+        android:id="@+id/log_out"
+        app:showAsAction="never"
+        android:icon="@drawable/log_out"
+        android:title="Log Out"/>
+
+</menu>
