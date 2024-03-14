@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Views</string>
+    <string name="app_name">FragmentComm</string>
     <string name="OpenDrawer">Open Navigation Drawer</string>
     <string name="ClossDrawer">Close Navigation Drawer</string>
     <!-- TODO: Remove or change this placeholder text -->
